@@ -1,0 +1,8 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.8, pytest-8.3.5, pluggy-1.5.0
+rootdir: C:\Users\dweig\OneDrive\Documents\KC\Git\python-kattsky
+collected 7 items
+
+test\test_app.py .......                                                 [100%]
+
+============================== 7 passed in 3.24s ==============================
