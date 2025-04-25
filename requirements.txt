@@ -1,0 +1,11 @@
+streamlit
+textblob
+nltk
+contractions
+pyspellchecker
+vaderSentiment
+pandas
+matplotlib
+openpyxl
+plotly
+wordcloud
